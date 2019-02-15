@@ -33,6 +33,5 @@ public class ObjectToFileWriter {
                 ex.printStackTrace();
             }
         }
-
     }
 } 
